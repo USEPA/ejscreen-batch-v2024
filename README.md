@@ -1,3 +1,5 @@
+DEPRECATED - This repository has been archived and is no longer maintained. The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should not be used in production systems.
+
 ## Important Note on Instructions
 The instructions for this tool contained in `EJSCREEN Batch Processing Tool Pro_2021.pdf` are still applicable with the exception of 2 items:
 * The data used for this tool can be found here:
